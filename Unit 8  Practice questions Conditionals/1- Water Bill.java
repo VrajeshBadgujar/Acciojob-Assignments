@@ -1,5 +1,21 @@
                                                             // Unit 8 | Practice questions- Conditionals
                                                            // 1- Water Bill
+                                                           
+// In this task, you need to identify the water bill for a household
+
+// User Task:
+// You have to input the total liter of water used by a house and output the total water bill. The water bill is calculated as follows:
+
+// For first 100 litres: Rs. 15 per litre
+
+// For next 100 litres: Rs. 14 per litre
+
+// After 200 litres: Rs. 12 per litre
+
+// Example
+// Input: 105
+
+// Output: 1570
 
 
 import java.util.Scanner;
